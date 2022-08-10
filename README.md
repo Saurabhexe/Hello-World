@@ -1,6 +1,3 @@
-# Hello-World
-hello humans! 
-*This is working*
 <h1 align="center">Hi 👋, I'm Saurabh!</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
